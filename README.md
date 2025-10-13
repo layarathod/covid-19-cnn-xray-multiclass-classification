@@ -3,6 +3,9 @@
 This repository contains a **TensorFlow/Keras-based Convolutional Neural Network (CNN)** built to perform **multi-class image classification**.  
 The notebook demonstrates a complete deep-learning pipeline — from data loading and augmentation to model training, evaluation, and activation-map visualization.
 
+## Dataset used for this can be found here: 
+https://drive.google.com/drive/folders/1lxKlpZRHBKUE0LgJZESjNhRfEnENC0kA?usp=drive_link
+
 ---
 
 ### Project Workflow
